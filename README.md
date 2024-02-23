@@ -1,1 +1,5 @@
-# About-Me
+👋 Hi, I’m Annita
+👀 I’m interested in ...
+🌱 I’m currently learning Programming
+💞️ I’m looking to collaborate on ...
+📫 How to reach me tasfiatahsinannita@gmail.com
